@@ -3,7 +3,7 @@ import { MessageCircle, Mail, Clock, MapPin } from "lucide-react";
 const Contact = () => {
   const handleWhatsApp = () => {
     window.open(
-      "https://wa.me/923151769775?text=Assalamu Alaikum, I would like to inquire about Quran lessons for my child.",
+      "https://wa.me/923236297079?text=Assalamu Alaikum, I would like to inquire about Quran lessons for my child.",
       "_blank"
     );
   };
