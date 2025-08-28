@@ -5,7 +5,7 @@ const Pricing = () => {
     {
       name: 'Starter',
       icon: <Users size={28} />, // Increased icon size
-      price: '$40',
+      price: '$30',
       period: 'per month',
       description: 'Perfect for beginners starting their Quranic journey',
       features: [
@@ -22,7 +22,7 @@ const Pricing = () => {
     {
       name: 'Regular',
       icon: <Star size={28} />, // Increased icon size
-      price: '$70',
+      price: '$50',
       period: 'per month',
       description: 'Comprehensive program for steady progress',
       features: [
@@ -41,7 +41,7 @@ const Pricing = () => {
     {
       name: 'Hifz Support',
       icon: <Zap size={28} />, // Increased icon size
-      price: '$120',
+      price: '$100',
       period: 'per month',
       description: 'Intensive program for Quran memorization',
       features: [
